@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c57c5f9deb8265640a9a8d400749006e, type: 3}
+  m_Name: Carrot
+  m_EditorClassIdentifier: 
+  NameTag: {fileID: 11400000, guid: 2ea40e0252c9b91478ba629c0732dbd9, type: 2}
+  TypeTag: {fileID: 11400000, guid: 94468057d496c5e44aa849ecc1c06ba6, type: 2}
+  IconSprite: {fileID: 21300000, guid: fc140b0816bf07443972b22c544eafc8, type: 3}
+  RarityTag: {fileID: 11400000, guid: f69e893028e30914590e2144b6a13e43, type: 2}
+  Description: Carrots, vibrant orange roots, burst with vitamin A and offer a sweet
+    crunch, enriching both salads and stews with their earthy flavor.
+  BuyPrice: 10
+  SellPrice: 8
+  Weight: 5

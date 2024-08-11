@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c57c5f9deb8265640a9a8d400749006e, type: 3}
+  m_Name: Iron
+  m_EditorClassIdentifier: 
+  NameTag: {fileID: 11400000, guid: 671b190b03c471d4dafcef270ae3d966, type: 2}
+  TypeTag: {fileID: 11400000, guid: f8a302142a84eed49b3d00abfbb83f76, type: 2}
+  IconSprite: {fileID: 21300000, guid: 27a65fe31578cf04c97ed0fd6e9381fb, type: 3}
+  RarityTag: {fileID: 11400000, guid: 43d418e184e591d42a8651680fb26e0b, type: 2}
+  Description: Forged in the heart of fiery furnaces, iron stands resilient, a stalwart
+    foundation of industry and innovation, shaping civilizations with its strength
+    and versatility.
+  BuyPrice: 30
+  SellPrice: 20
+  Weight: 25

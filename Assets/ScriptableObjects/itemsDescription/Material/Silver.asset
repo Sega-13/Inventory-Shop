@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c57c5f9deb8265640a9a8d400749006e, type: 3}
+  m_Name: Silver
+  m_EditorClassIdentifier: 
+  NameTag: {fileID: 11400000, guid: 028a75f2d3b9b3a43883fd6268a48583, type: 2}
+  TypeTag: {fileID: 11400000, guid: f8a302142a84eed49b3d00abfbb83f76, type: 2}
+  IconSprite: {fileID: 21300000, guid: bc87f99dac6fc7f40a730d5c00fe21a0, type: 3}
+  RarityTag: {fileID: 11400000, guid: 3f71e9cf67aee9b4faa3116fec45a1de, type: 2}
+  Description: Glittering like moonlight on water, silver captivates with its cool
+    elegance, a precious metal cherished for adornment and currency, reflecting purity
+    and sophistication.
+  BuyPrice: 35
+  SellPrice: 30
+  Weight: 30

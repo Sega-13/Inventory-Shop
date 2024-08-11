@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c57c5f9deb8265640a9a8d400749006e, type: 3}
+  m_Name: Sword
+  m_EditorClassIdentifier: 
+  NameTag: {fileID: 11400000, guid: 87331f6146bd41240ada841980ac9a3e, type: 2}
+  TypeTag: {fileID: 11400000, guid: 8f0eb1944e9aa644fa28bea9d8d0f679, type: 2}
+  IconSprite: {fileID: 21300000, guid: e89ea880045c95745b9af79d0fb73623, type: 3}
+  RarityTag: {fileID: 11400000, guid: c6dd75af0789e7142a6a67b4757113f2, type: 2}
+  Description: A sword, the timeless emblem of valor and honor, gleams with the sheen
+    of tempered steel, its edge honed to perfection, ready to defend the righteous
+    and vanquish the darkness, a steadfast companion to heroes throughout the ages.
+  BuyPrice: 10
+  SellPrice: 5
+  Weight: 10

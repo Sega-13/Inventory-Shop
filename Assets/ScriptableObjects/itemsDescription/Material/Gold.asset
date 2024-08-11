@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c57c5f9deb8265640a9a8d400749006e, type: 3}
+  m_Name: Gold
+  m_EditorClassIdentifier: 
+  NameTag: {fileID: 11400000, guid: 5f13564a06dfee34c9cd823960e1a7dd, type: 2}
+  TypeTag: {fileID: 11400000, guid: f8a302142a84eed49b3d00abfbb83f76, type: 2}
+  IconSprite: {fileID: 21300000, guid: 624b925fcaa4c4d4f816567dc032d9c0, type: 3}
+  RarityTag: {fileID: 11400000, guid: 2ea2b5b307d001a4aac4fa11e475a0fd, type: 2}
+  Description: Pure and luminous, gold whispers tales of wealth and opulence, coveted
+    for its brilliance and rarity, adorning kings and civilizations with timeless
+    allure.
+  BuyPrice: 50
+  SellPrice: 40
+  Weight: 30

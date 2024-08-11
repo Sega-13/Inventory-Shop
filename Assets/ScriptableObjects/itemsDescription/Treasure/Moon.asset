@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c57c5f9deb8265640a9a8d400749006e, type: 3}
+  m_Name: Moon
+  m_EditorClassIdentifier: 
+  NameTag: {fileID: 11400000, guid: 0bda47b68bea65b438f37edcee757841, type: 2}
+  TypeTag: {fileID: 11400000, guid: d8ee7cd0972e2504290f9a2f4215de3a, type: 2}
+  IconSprite: {fileID: 21300000, guid: 1feca9ebdcd9c2d4aa27195ddd9b5590, type: 3}
+  RarityTag: {fileID: 11400000, guid: 2ea2b5b307d001a4aac4fa11e475a0fd, type: 2}
+  Description: Glistening in lunar radiance, the moon crystal holds whispers of celestial
+    secrets, its ethereal glow captivating hearts and minds with the allure of magic
+    and mystery, a beacon of enchantment in the night sky.
+  BuyPrice: 200
+  SellPrice: 180
+  Weight: 30

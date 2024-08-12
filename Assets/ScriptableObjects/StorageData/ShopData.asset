@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0be89ff29d1eb3645a9cdf6c866a371e, type: 3}
+  m_Name: ShopData
+  m_EditorClassIdentifier: 
+  ItemContainer: {fileID: 11400000, guid: b9deddf5d9fd41241991666145ba5e9f, type: 2}
+  ItemTypeTabButtonPrefab: {fileID: 4854860951994116068, guid: 09c918e4c15c94c44801343c42ae3bda, type: 3}
+  SlotPrefab: {fileID: 7306035842222568065, guid: 3ff091aeae8717944a966105fa8b50d2, type: 3}

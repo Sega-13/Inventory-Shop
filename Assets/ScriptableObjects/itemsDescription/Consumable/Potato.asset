@@ -14,7 +14,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   NameTag: {fileID: 11400000, guid: 249e4292e98bc7746ad52b9823ae101f, type: 2}
   TypeTag: {fileID: 11400000, guid: 94468057d496c5e44aa849ecc1c06ba6, type: 2}
-  IconSprite: {fileID: 0}
+  IconSprite: {fileID: 21300000, guid: 58aa91a4118b96046a8641f101b5719a, type: 3}
   RarityTag: {fileID: 11400000, guid: f69e893028e30914590e2144b6a13e43, type: 2}
   Description: Versatile and humble, potatoes are culinary chameleons, whether mashed,
     roasted, or fried, they offer comfort and nourishment with their earthy goodness.
